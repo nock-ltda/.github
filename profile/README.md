@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://usenock.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-      <img alt="Nock. A pessoa certa, no momento certo. Prospecção B2B para empresas brasileiras." src="assets/header-light.svg" width="920">
-    </picture>
+    <img alt="Nock. A pessoa certa, no momento certo. Prospecção B2B para empresas brasileiras." src="assets/header-light.svg" width="920">
   </a>
 </p>
 
