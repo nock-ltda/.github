@@ -2,7 +2,7 @@
   <a href="https://usenock.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-      <img alt="Nock. A pessoa certa, no momento certo. Prospecção B2B para empresas brasileiras." src="assets/header-light.svg" width="920">
+      <img alt="Nock. Deixe a Nock encontrar seu próximo cliente. Prospecção B2B para empresas brasileiras." src="assets/header-light.svg" width="920">
     </picture>
   </a>
 </p>
